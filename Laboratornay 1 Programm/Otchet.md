@@ -8,7 +8,7 @@
 
 В Visual Studio откройте файл меню и выберите New > проекта открыть создайте новый проект диалоговое окно. Выберите консольное приложение шаблона, а затем выберите Далее.
 
-<img src="Laboratornay 1 Programm/1.png">
+<img src="Laboratornay%201%20Programm">
 
 
 *Рис.1 (Cоздание проект в Visual Studio)*
