@@ -1,0 +1,5 @@
+﻿  libbmp.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: D:\UNI\libbmp-master\libbmp-master\CPP\libbmp.cpp: No such file or directory,
+  lab3.cpp
+C:\Users\danii\OneDrive\Рабочий стол\Лабораторная 3\code\lab3\lab3\lab3.cpp(52,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Создание кода...
