@@ -1,0 +1,2 @@
+﻿  lab6.cpp
+C:\Users\danii\OneDrive\Документы\GitHub\labs\lab6\code\lab6\lab6\lab6.cpp(91,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
